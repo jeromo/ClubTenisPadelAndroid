@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClubTenisPadel</string>
+    <string name="url_base_club">http://192.168.1.41/clubdev/api/v1.0</string>
+    <string name="sample">/sample</string>
+</resources>
